@@ -1,0 +1,13 @@
+# Generated synthetic data — large, regeneratable
+data_generation/output/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# dbt (for later)
+target/
+dbt_packages/
+logs/
+.user.yml
